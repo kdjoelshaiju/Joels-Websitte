@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: BLACK;
+    padding: 20px;
+    text-align: center;
+}
